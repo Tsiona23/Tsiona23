@@ -9,13 +9,8 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)]
 
-### Projects
 
 ### Contact Me
 - 📫 Email: [Email](tsionawithaile@gmail.com)
 - 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/tsion-hailekiros-47b361320)
-- 🌐 Portfolio: [Portfolio](https://yourportfolio.com)
 
-### Fun Fact
-⚡ I love [watching movies 🎥 ☺ ]!
-**Tsiona23/Tsiona23** is a ✨ _special_ ✨ 
