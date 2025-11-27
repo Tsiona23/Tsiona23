@@ -37,13 +37,6 @@ My coding journey is full of curiosity, creativity, and 💻 + ☕.
 - 🏗️ Expanding my portfolio with projects and real-world tasks  
 - ✨ Making my GitHub profile look aesthetic and welcoming  
 
----
-
-## 🌸 My Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=light&bg_color=ffeff7&text_color=333333&icon_color=e16aaa" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=light&background=fff0f9&date_format=M%20j%5B%2C%20Y%5D&ring=E16AAA&fire=E16AAA&sideNums=333333" height="160"/>
-</p>
 
 ---
 
