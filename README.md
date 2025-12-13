@@ -26,7 +26,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 
 ### ⚙️ Tools & Other Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tool-icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,php" alt="tool-icons"/>
 </p>
 
 ---
