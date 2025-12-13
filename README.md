@@ -42,8 +42,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 
 ## 💼 Projects I’m Proud of  
 - 🌐 **Portfolio Website** — My personal site showcasing my work and skills  
-- 🎨 **Responsive HTML & CSS Mini-Projects** — Small UI/UX experiments and layouts  
-- 📝 **JavaScript Apps** — Interactive apps built with vanilla JavaScript  
+- 🎨 **Responsive HTML & CSS Mini-Projects** — Small UI/UX experiments and layouts   
 
 
 ---
