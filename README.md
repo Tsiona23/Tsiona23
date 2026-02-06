@@ -20,7 +20,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 
 ### 🌐 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="frontend-icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="frontend-icons"/>
 </p>
 
 ### ⚙️ Tools & Other Skills  
