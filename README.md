@@ -34,7 +34,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 - 🌸 Building small and fun web-based projects  
 - 🧠 Studying programming topics 
 - 🏗️ Expanding my portfolio with projects and real-world tasks  
-- ✨ Making my GitHub profile look aesthetic and welcoming  
+ 
 
 
 ---
