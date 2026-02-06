@@ -8,8 +8,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 ---
 
 ## 🌷 About Me  
-- 🎓 IT Student at Mekelle University  
-- 💻 Learning **HTML, CSS, JavaScript, PHP**  
+- 🎓 IT Student at Mekelle University   
 - 🌱 Exploring Web Development, UI/UX design & responsive layout  
 - 🎯 Goal: Become a **professional web developer**  
 - 💗 I love clean UI, pastel colors, cute animations, and well-organized code  
@@ -26,7 +25,7 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 
 ### ⚙️ Tools & Other Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,php" alt="tool-icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,c++,java,php,python" alt="tool-icons"/>
 </p>
 
 ---
