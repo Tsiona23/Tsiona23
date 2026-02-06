@@ -1,6 +1,6 @@
-# 🌸 Hi, I’m Tsion! 👋
+                                                                            #  🌸 Hi, I’m Tsion! 👋
 
-### ✨ Aspiring Web Developer • IT Student • Creative Learner
+                                                         ### ✨ Aspiring Web Developer • IT Student • Creative Learner
 
 I’m an IT student and web developer passionate about building beautiful, user-friendly websites, exploring web technologies, and turning ideas into real projects.  
 My coding journey is full of curiosity, creativity, and 💻 + 🍵.  
