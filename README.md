@@ -52,7 +52,4 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 
  
 
----  
-
-> “Coding is not just code — it’s love, creativity, and a bit of magic.” ✨💗
 
