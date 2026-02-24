@@ -22,13 +22,10 @@ My coding journey is full of curiosity, creativity, and 💻 + 🍵.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="frontend-icons"/>
    
-### backend 
-<p align="left">
- <img src="https://skillicons.dev/icons?i=c++,c#,java,php,python" alt="backend-icons"/>
    
 ### ⚙️ Tools & Other Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tool-icons"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,php,python" alt="tool-icons"/>
 </p>
 
 ---
