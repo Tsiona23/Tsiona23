@@ -63,14 +63,6 @@
 - 🌐 **Portfolio Website** — My personal site showcasing my work and skills  
 - 🎨 **Responsive HTML & CSS Mini-Projects** — UI/UX experiments and layouts  
 ---
----
-## 🚀 Featured Project
-### 🎧 Spotify Clone 
-- 🎵 Full-stack music streaming app
-- 🔐 Authentication system
-- 📱 Responsive UI
-- ⚡ Built with React.js & Node.js
----
 
 ## 🧩 Tasks & Focus Areas
 - 🚀 Building full-stack web applications  
