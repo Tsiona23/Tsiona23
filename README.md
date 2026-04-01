@@ -14,7 +14,7 @@
 - 🎓 IT Student passionate about software development  
 - 💻 Full-Stack Developer building real-world applications  
 - 🌱 Currently improving **backend & system design skills**  
-- 🎯 Goal: Become a professional developer & freelancer  
+- 🎯 Goal: Become a professional developer 
 
 ---
 
@@ -62,8 +62,14 @@
 ## 💼 Projects I’m Proud of
 - 🌐 **Portfolio Website** — My personal site showcasing my work and skills  
 - 🎨 **Responsive HTML & CSS Mini-Projects** — UI/UX experiments and layouts  
-- 🎧 **Spotify Clone** — Full-stack music streaming app with authentication and responsive UI  
-
+---
+---
+## 🚀 Featured Project
+### 🎧 Spotify Clone 
+- 🎵 Full-stack music streaming app
+- 🔐 Authentication system
+- 📱 Responsive UI
+- ⚡ Built with React.js & Node.js
 ---
 
 ## 🧩 Tasks & Focus Areas
