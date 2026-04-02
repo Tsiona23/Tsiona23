@@ -79,12 +79,7 @@
   </a>
 </p>
 
----
 
-## 🧠 Fun Fact
-> I turn ideas into real-world web applications 🚀
-
----
 
 ⭐ From [Tsion Haile](https://github.com/Tsiona23)
 ```
