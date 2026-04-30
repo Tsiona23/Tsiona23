@@ -3,7 +3,7 @@
 <h3 align="center">💻Aspiring Full-Stack Developer | Reactjs • Node.js • Python</h3> 
  
  
----
+--- 
 
 ## 🚀 About Me
 - 🎓 IT Student passionate about software development  
