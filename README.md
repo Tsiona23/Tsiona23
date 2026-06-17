@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tsion Hailekiros</h1> 
-<h3 align="center">💻Aspiring Full-Stack Developer | Reactjs • Node.js • Python</h3> 
+<h3 align="center">💻Aspiring Full-Stack website Developer |</h3> 
  
  
 --- 
