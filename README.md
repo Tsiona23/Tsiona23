@@ -88,7 +88,7 @@
 ## 🧩 Tasks & Focus Areas
 - 🚀 Building full-stack web applications  
 - 🔧 Improving backend development (Node.js, APIs)  
-- 🧠 Learning system design fundamentals  
+- 🧠 Learning system design fundamentals   
 - 🎯 Practicing problem-solving and coding daily  
 
 ---
