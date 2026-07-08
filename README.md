@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 IT Student passionate about software development  
 - 💻 Full-Stack Developer building real-world applications  
-- 🌱 Currently improving **backend & system design skills**  
+- 🌱 Currently improving **backend & system design skills**   
 - 🎯 Goal: Become a professional developer  
   
 ---
