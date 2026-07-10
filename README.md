@@ -1,24 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,50:e8d5ff,100:c9f0ff&height=230&section=header&text=Tsion%20Hailekiros&fontSize=60&fontColor=6B4F7A&animation=fadeIn"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tsion Hailekiros
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=750&lines=💻+Full-Stack+Developer;🌸+Girl+Who+Loves+To+Code;🍵+Tea-Powered+Developer;✨+Building+Beautiful+Digital+Experiences;🚀+Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile%20Views&color=f48fb1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&color=#FFB6C1&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tsion Hailekiros
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
-
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-
-</div>
 
 ## 💻 About Me
 
