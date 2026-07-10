@@ -10,9 +10,15 @@
 
 ---
 
-# 🌷 Hello, I'm Tsion Hailekiros
+<div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tsion Hailekiros
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+
+</div>
 
 ## 💻 About Me
 
