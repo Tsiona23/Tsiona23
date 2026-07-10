@@ -1,54 +1,56 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tsion 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,50:e8d5ff,100:c9f0ff&height=220&section=header&text=Tsion%20Hailekiros&fontSize=60&fontColor=6b4f7a&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
-
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🌸+Girl+Who+Loves+To+Code;✨+Building+Beautiful+Digital+Experiences;🚀+Turning+Ideas+Into+Reality"/>
 
 </div>
 
----
 
-# 🌌 About Me
+# 🌷 Hello, I'm Tsion
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+## 💻 About Me
 
 ```javascript
-const tsion = {
-    location: "Ethiopia 🇪🇹",
+const developer = {
+    name: "Tsion Hailekiros",
+    role: "Full-Stack Developer",
     education: "Information Technology Student",
-    role: "Aspiring Full-Stack Developer",
+
+    passion: [
+        "Web Development",
+        "UI/UX Design",
+        "Problem Solving",
+        "Building Useful Products"
+    ],
 
     currentlyLearning: [
-        "Backend Development",
+        "Backend Engineering",
         "System Design",
-        "Cloud Computing",
-        "Software Architecture"
+        "Cloud Technologies"
     ],
 
-    techStack: [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Firebase"
-    ],
-
-    goal: "Build software that solves real-world problems."
+    dream:
+    "Creating technology that improves people's lives ✨"
 }
 ```
 
-- 🌱 Learning Backend Engineering & System Design
-- 💻 Building Full-Stack Applications
-- 🎯 Passionate about solving real-world problems
+🌸 Passionate about creating meaningful software  
+💻 Love combining creativity with technology  
+🚀 Building projects that solve real problems  
+🌱 Always learning and improving  
+✨ Future Software Engineer  
 
 
 ---
 
-# ⚡ Tech stack
+# 🎀 My Tech Universe
 
-### Frontend
+
+## 🌸 Frontend Magic
 
 <p align="center">
 
@@ -56,15 +58,17 @@ const tsion = {
 
 </p>
 
-### Backend
+
+## ☁️ Backend & Database
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase"/>
 
 </p>
 
-### Languages
+
+## 💜 Programming Languages
 
 <p align="center">
 
@@ -72,15 +76,8 @@ const tsion = {
 
 </p>
 
-### Databases
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-</p>
-
-### Tools
+## 🧸 Tools I Love
 
 <p align="center">
 
@@ -88,84 +85,105 @@ const tsion = {
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌐 Portfolio | Personal developer portfolio |
-| 🩸 Tsige Flow | Smart Period Tracking Website |
-| 📝 Online Exam System | Full Stack Examination Platform |
-| 📱 Kotlin Notes App | Android Note Application |
-| 🎨 Responsive UI Projects | Modern frontend experiments |
 
 ---
 
-# 📊 GitHub Analytics
+# 🌸 Featured Creations
+
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=tokyonight&hide_border=true"/>
+| 💻 Project | ✨ Description |
+|---|---|
+| 🌷 Tsige Flow | A beautiful period tracking platform |
+| 🚚 Zi Express | Delivery management platform |
+| 📝 Examify | Full-stack online examination system |
+| 📱 Notes App | Kotlin Android application |
+| 🌐 Portfolio | My personal developer space |
+
 
 </div>
 
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiona23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 My Coding Journey
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tsiona23&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=rose_pine&hide_border=true&border_radius=20"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=rose_pine&hide_border=true"/>
 
 </div>
 
+
 ---
 
-# 📈 Contribution Graph
+# 🌷 Developer Growth
+
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiona23&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiona23&theme=github-light&hide_border=true"/>
 
 </div>
 
+
 ---
 
+# 🦋 Achievements
 
-# 🌍 Connect With Me
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tsiona23&theme=flat&no-frame=true&column=7"/>
+
+</div>
+
+
+---
+
+# 💌 Let's Connect
+
+
+<div align="center">
+
 
 <a href="https://linkedin.com/in/tsion-haile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="mailto:tsionawithaile@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Tsiona23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-8E7AB5?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
+
+<a href="mailto:tsionawithaile@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-F06292?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
 </div>
+
 
 ---
 
 <div align="center">
 
+### 🌸 "Building the future, one line of code at a time."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5ff,50:ffd6e8,100:c9f0ff&height=120&section=footer"/>
 
 </div>
-
 
