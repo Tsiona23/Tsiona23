@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+in+Progress;Creating+Beautiful+Digital+Experiences;Tea-Powered+Code+and+Creativity;Turning+Ideas+Into+Real+Products;Growing+One+Commit+At+A+Time"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+in+Progress;Creating+Beautiful+Digital+Experiences;Turning+Ideas+Into+Real+Products;Growing+One+Commit+At+A+Time"/>
 
 </div>
 
