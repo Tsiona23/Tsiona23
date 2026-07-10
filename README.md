@@ -41,9 +41,8 @@ const tsion = {
 
 - 🌱 Learning Backend Engineering & System Design
 - 💻 Building Full-Stack Applications
-- 🚀 Looking for Internship Opportunities
 - 🎯 Passionate about solving real-world problems
-- ⚡ Fun Fact: I enjoy turning ideas into beautiful interfaces.
+
 
 ---
 
@@ -96,7 +95,6 @@ const tsion = {
 | Project | Description |
 |----------|-------------|
 | 🌐 Portfolio | Personal developer portfolio |
-| 📦 Zi Express | Courier & Delivery Platform |
 | 🩸 Tsige Flow | Smart Period Tracking Website |
 | 📝 Online Exam System | Full Stack Examination Platform |
 | 📱 Kotlin Notes App | Android Note Application |
