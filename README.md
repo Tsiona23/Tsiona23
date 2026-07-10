@@ -46,7 +46,7 @@ const tsion = {
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech stack
 
 ### Frontend
 
