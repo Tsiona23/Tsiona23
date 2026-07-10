@@ -172,11 +172,6 @@ const tsion = {
 
 <div align="center">
 
-## 💭 Developer Philosophy
-
-> **"Code is more than syntax—it's a way to turn ideas into experiences that make people's lives better."**
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=120&section=footer"/>
 
