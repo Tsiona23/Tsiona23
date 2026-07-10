@@ -1,17 +1,16 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Tsion Hailekiros
+# 👋 Hi, I'm Tsion Hailekiros
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=#FFB6C1&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Building+Real-World+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=750&lines=💻+Aspiring+Full-Stack+Developer;🌸+Girl+Who+Loves+To+Code;🍵+Tea-Powered+Problem+Solver;✨+Building+Real-World+Applications;🚀+Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&color=#FFB6C1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile%20Views&color=ffb6c1&style=for-the-badge"/>
 
 </div>
 
 ---
 
-
-## 💻 About Me
+## 🌷 About Me
 
 ```javascript
 const tsion = {
@@ -19,11 +18,11 @@ const tsion = {
     role: "Aspiring Full-Stack Developer",
     education: "Information Technology Student",
 
-    passion: [
+    interests: [
         "Web Development",
         "UI/UX Design",
-        "Problem Solving",
-        "Building Meaningful Products"
+        "Software Engineering",
+        "Problem Solving"
     ],
 
     currentlyLearning: [
@@ -32,18 +31,21 @@ const tsion = {
         "Cloud Technologies"
     ],
 
-    lifestyle:
-        "Coding with creativity and a warm cup of tea 🍵",
+    favoriteThings: [
+        "Writing clean code",
+        "Creating beautiful interfaces",
+        "A warm cup of tea 🍵"
+    ],
 
-    goal:
-        "Create technology that improves people's lives ✨"
+    mission:
+        "Build technology that creates meaningful impact ✨"
 };
 ```
 
-🌸 Passionate about creating beautiful and functional software  
-💻 Love transforming ideas into real-world applications  
-🚀 Building projects that solve meaningful problems  
-🌱 Always learning and improving my skills  
+🌸 Passionate about creating beautiful and functional digital experiences  
+💻 Building full-stack applications with modern technologies  
+🚀 Interested in solving real-world problems through software  
+🌱 Constantly improving my engineering skills  
 ✨ Future Software Engineer  
 
 
@@ -56,7 +58,7 @@ const tsion = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite"/>
 
 </p>
 
@@ -88,7 +90,7 @@ const tsion = {
 </p>
 
 
-## 🛠️ Developer Tools
+## 🛠️ Tools & Platforms
 
 <p align="center">
 
@@ -101,28 +103,25 @@ const tsion = {
 
 # 🌸 Featured Projects
 
+
 | 🌷 Project | ✨ Description |
 |---|---|
-| 🌸 Tsige Flow | A beautiful period tracking platform focused on women's health |
-| 🚚 Zi Express | A modern delivery management platform |
-| 📝 Examify | Full-stack online examination system |
-| 📱 Notes App | Kotlin Android application with Firebase integration |
-| 🌐 Portfolio Website | My personal developer portfolio |
+| 🌸 Tsige Flow | A modern period tracking platform designed to support women's health |
+| 🚚 Zi Express | A delivery platform focused on improving local services |
+| 📝 Examify | Full-stack online examination management system |
+| 📱 Notes App | Android Kotlin application with Firebase integration |
+| 🌐 Portfolio | Personal developer portfolio showcasing my skills |
 
 
 ---
 
-# 🍵 My Developer Journey
+# 🍵 Currently Building My Skills In
 
-> "Every line of code is a small step toward creating something meaningful."
-
-Currently focusing on:
-
-🌱 Backend architecture  
-⚡ API development  
+✨ Backend architecture & APIs  
+⚡ RESTful API development  
 🧠 System design fundamentals  
-🎨 Better UI/UX experiences  
-🚀 Building production-ready applications  
+🎨 Modern UI/UX experiences  
+☁️ Cloud deployment & scalable applications  
 
 
 ---
@@ -160,11 +159,23 @@ Currently focusing on:
 
 ---
 
+# 🌱 Developer Philosophy
+
+
+<div align="center">
+
+> 🍵 "Building the future, one line of code and one cup of tea at a time."
+
+</div>
+
+
+---
 
 # 💌 Let's Connect
 
 
 <div align="center">
+
 
 <a href="https://www.linkedin.com/in/tsion-haile">
 
@@ -172,17 +183,27 @@ Currently focusing on:
 
 </a>
 
+
 <a href="https://github.com/Tsiona23">
 
 <img src="https://img.shields.io/badge/GitHub-8E7AB5?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
+
+<a href="https://portfolio-ten-alpha-1p33m5prk6.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+
 <a href="mailto:tsionawithaile@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-F06292?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
+
 
 </div>
 
@@ -194,6 +215,5 @@ Currently focusing on:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5ff,50:ffd6e8,100:c9f0ff&height=130&section=footer"/>
 
 </div>
-
 
  
