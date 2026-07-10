@@ -163,29 +163,6 @@ Currently focusing on:
 
 ---
 
-# 🏆 Achievements
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tsiona23&theme=flat&no-frame=true&column=7"/>
-
-</div>
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tsiona23/Tsiona23/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
----
 
 # 💌 Let's Connect
 
@@ -216,15 +193,6 @@ Currently focusing on:
 ---
 
 <div align="center">
-
-## 🌷 Developer Philosophy
-
-### 🍵 "Building the future, one line of code and one cup of tea at a time."
-
-✨ Keep learning  
-✨ Keep creating  
-✨ Keep building  
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8d5ff,50:ffd6e8,100:c9f0ff&height=130&section=footer"/>
 
