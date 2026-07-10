@@ -1,10 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Tsion Hailekiros
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e8,50:e8d5ff,100:c9f0ff&height=180&section=header&text=Tsion%20Hailekiros&fontSize=55&fontColor=7B5E8A&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=750&lines=💻+Aspiring+Full-Stack+Developer;🌸+Girl+Who+Loves+To+Code;🍵+Tea-Powered+Problem+Solver;✨+Building+Real-World+Applications;🚀+Always+Learning+Something+New"/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile%20Views&color=ffb6c1&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=800&lines=💻+Full-Stack+Developer+in+Progress;🌸+Creating+Beautiful+Digital+Experiences;🍵+Tea-Powered+Code+%26+Creativity;✨+Turning+Ideas+Into+Real+Products;🚀+Growing+One+Commit+At+A+Time"/>
+
+
+
+### 🌷 Software Developer • UI/UX Enthusiast • Problem Solver
+
 
 </div>
 
@@ -159,17 +164,6 @@ const tsion = {
 
 ---
 
-# 🌱 Developer Philosophy
-
-
-<div align="center">
-
-> 🍵 "Building the future, one line of code and one cup of tea at a time."
-
-</div>
-
-
----
 
 # 💌 Let's Connect
 
