@@ -10,11 +10,6 @@
 
 
 
-### 🌷 Software Developer • UI/UX Enthusiast • Problem Solver
-
-
-</div>
-
 ---
 
 ## 🌷 About Me
