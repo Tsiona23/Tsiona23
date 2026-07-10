@@ -140,15 +140,6 @@ const tsion = {
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tsiona23/Tsiona23/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 🌍 Connect With Me
 
