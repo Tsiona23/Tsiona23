@@ -36,7 +36,6 @@ const tsion = {
     favoriteThings: [
         "Writing clean code",
         "Creating beautiful interfaces",
-        "A warm cup of tea 🍵"
     ],
 
     mission:
