@@ -1,123 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFDCEB,50:E9D5FF,100:C7E9FF&text=Tsion%20Hailekiros&fontSize=55&fontColor=6B4F7A&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:C9D6FF,50:E2C7FF,100:FFD6E7&text=Tsion%20Hailekiros&fontColor=4B4453&fontSize=58&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=C06C84&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+beautiful+digital+experiences;React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+creating;Powered+by+curiosity+%26+tea+🍵"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Creating+Beautiful+User+Experiences;Always+Learning+New+Technologies"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&style=for-the-badge&color=F8A5C2"/>
+<img src="https://komarev.com/ghpvc/?username=Tsiona23&label=Profile+Views&style=for-the-badge&color=E879F9"/>
 
 </div>
 
 ---
 
-# 🌷 Welcome to My Studio
+# ✨ About Me
 
-```javascript
+```ts
 const tsion = {
   name: "Tsion Hailekiros",
 
-  location: "Ethiopia 🇪🇹",
-
   role: "Full-Stack Developer",
+
+  location: "Ethiopia",
 
   education: "Information Technology Student",
 
-  currentlyLearning: [
+  focus: [
+    "Frontend Development",
     "Backend Engineering",
     "System Design",
-    "Cloud Computing"
+    "UI/UX"
   ],
 
-  passions: [
-    "Building beautiful interfaces",
-    "Writing clean code",
-    "Creating meaningful products"
+  currentlyLearning: [
+    "Cloud Computing",
+    "REST APIs",
+    "Software Architecture"
   ],
 
-  motto: "Build with purpose. Learn with curiosity.",
-
-  fuel: "A warm cup of tea 🍵"
+  funFact:
+    "I enjoy transforming ideas into beautiful digital experiences."
 }
 ```
 
-🌸 I'm passionate about designing software that is both **beautiful** and **useful**.
+I'm passionate about building software that combines **clean design**, **great user experience**, and **real-world functionality**.
 
-💻 I enjoy building full-stack applications using modern technologies.
-
-🌱 Every project helps me grow into a better software engineer.
-
-🍵 My favorite coding companion is a warm cup of tea.
-
-✨ My goal is to create technology that positively impacts people's lives.
+I enjoy learning new technologies, solving challenging problems, and creating applications that people genuinely enjoy using.
 
 ---
 
-# 🎀 My Toolkit
+# 🚀 Tech Stack
 
-### 🌸 Frontend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vite"/>
+
 </p>
 
-### ☁️ Backend
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase"/>
+
 </p>
 
-### 🗄️ Databases
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs"/>
+
 </p>
 
-### 💜 Languages
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,kotlin"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
 </p>
 
-### 🛠 Tools
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,render"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,vercel,render"/>
+
 </p>
 
 ---
 
-# ✨ Things I've Built
+# 💼 Featured Projects
 
-| 🌸 Project | 💡 Description |
-|------------|----------------|
-| 🌷 Tsige Flow | A modern period tracking platform focused on women's wellness |
-| 🚚 Zi Express | Delivery booking and management platform |
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Modern developer portfolio built with React |
 | 📝 Examify | Full-stack online examination management system |
-| 📱 Notes App | Android note-taking application built with Kotlin |
-| 🌐 Portfolio | My personal portfolio showcasing my work and journey |
+| 🚚 ZiExpress | Smart delivery platform |
+| 🌸 Tsige Flow | Period tracking web application |
+| 📱 Notes App | Android application built with Kotlin |
 
 ---
 
-# 🌱 Currently Growing
+# 🌱 Currently Learning
 
-- ⚡ Backend Development
-- ☁️ Cloud Computing
-- 🧠 System Design
-- 🚀 REST APIs
-- 🎨 UI/UX Design
-- 📚 Data Structures & Algorithms
-
----
-
-# 🍵 Tea Break
-
-> **Current playlist:** Lo-fi & instrumental music 🎧
-
-> **Current drink:** Earl Grey or Green Tea 🍵
-
-> **Current mission:** Build software that makes everyday life easier.
+- Backend Architecture
+- REST API Development
+- System Design
+- Cloud Computing
+- Docker
+- Authentication & Security
 
 ---
 
@@ -125,46 +117,52 @@ const tsion = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=rose_pine&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiona23&layout=compact&theme=rose_pine&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiona23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌸 Developer Philosophy
+# 📈 Contribution Graph
 
 <div align="center">
 
-> "Technology should solve real problems and feel beautiful to use."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiona23&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💌 Let's Connect
+# 🎯 2026 Goals
+
+- 🚀 Land a Software Engineering Internship
+- 💜 Build impactful Full-Stack Applications
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud Technologies
+- 📚 Strengthen Data Structures & Algorithms
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tsion-haile">
-<img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-ten-alpha-1p33m5prk6.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FFD6E8?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tsionawithaile@gmail.com">
-<img src="https://img.shields.io/badge/Email-F06292?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Tsiona23">
-<img src="https://img.shields.io/badge/GitHub-B39DDB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://portfolio-ten-alpha-1p33m5prk6.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -173,11 +171,11 @@ const tsion = {
 
 <div align="center">
 
-### 🌷 Thanks for stopping by!
+### ✨ Thanks for visiting!
 
-**Building meaningful software, one commit and one cup of tea at a time. 🍵**
+*"Great software is built with curiosity, consistency, and continuous learning."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C7E9FF,50:E9D5FF,100:FFDCEB&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C9D6FF,50:E2C7FF,100:FFD6E7&section=footer"/>
 
 </div>
  
