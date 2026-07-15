@@ -171,18 +171,6 @@ Currently exploring:
 
 ---
 
-# 🦋 Coding Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiona23&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
-
 # 💌 Let's Connect
 
 
@@ -220,23 +208,3 @@ Currently exploring:
 </div>
 
 
----
-
-<div align="center">
-
-
-## 🌙 Developer Philosophy
-
-
-### 💜 "Creating beautiful technology, one line of code at a time."
-
-
-🍵 One cup of tea  
-✨ One idea  
-💻 One commit at a time  
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:C084FC,50:3B245F,100:151221&section=footer"/>
-
-
-</div>
