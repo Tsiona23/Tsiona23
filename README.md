@@ -12,15 +12,9 @@
 </div>
 
 
----
-
-# 🌙 Welcome To My Digital Space
-
 <div align="center">
 
 ### 💜 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
-
-*"Building meaningful software "*
 
 </div>
 
@@ -147,27 +141,19 @@ Currently exploring:
 
 
 ---
-
 # 📊 GitHub Analytics
-
 
 <div align="center">
 
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Tsiona23&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
-
 <br/><br/>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiona23&layout=compact&theme=midnight-purple&hide_border=true"/>
-
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsiona23&layout=compact&count_private=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
 </div>
-
 
 ---
 
