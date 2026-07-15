@@ -147,7 +147,7 @@ Currently exploring:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Tsiona23&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
 <br/><br/>
 
