@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:151221,50:3B245F,100:C084FC&text=Tsion%20Hailekiros&fontSize=55&fontColor=F9A8D4&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3500&pause=1000&color=F9A8D4&center=true&vCenter=true&width=850&lines=💻+Full-Stack+Developer;🌙+Coding+Under+Midnight+Skies;💜+Creating+Beautiful+Digital+Experiences;✨+Turning+Ideas+Into+Reality"/>
-
 <br/>
 
 </div>
