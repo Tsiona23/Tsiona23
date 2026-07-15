@@ -148,17 +148,6 @@ const tsion = {
 
 ---
 
-# 🦋 Coding Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsiona23&theme=github-light&hide_border=true"/>
-
-</div>
-
-
----
 
 
 # 💌 Let's Connect
