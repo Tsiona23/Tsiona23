@@ -1,13 +1,6 @@
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFD6E8,50:E9D5FF,100:C7E9FF&text=Tsion%20OS&fontSize=60&fontColor=6B4F7A&fontAlignY=40&animation=fadeIn"/>
-
-### 🍵 Version 1.0.0
-
-*A cozy operating system for building beautiful software.*
-
-</div>
-
 ---
 
 <div align="center">
@@ -125,7 +118,7 @@ Personal developer website.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsiona23&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsiona23&theme=rose_pine&hide_border=true&v=2"/>
 
 <br><br>
 
@@ -145,7 +138,6 @@ Currently building:
 ✔ Full-Stack Projects
 ✔ Better UI/UX
 ✔ Backend Skills
-✔ Future Software Engineer
 
 No unfinished dreams detected.
 ```
