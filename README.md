@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 💜 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+### 💜Enthusiast  Full-Stack Developer 
 
 </div>
 
