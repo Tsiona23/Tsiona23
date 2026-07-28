@@ -124,12 +124,12 @@ const tsion = {
 Currently exploring:
 
 
- Backend architecture  
- REST API development  
- System design fundamentals  
- Cloud deployment  
- Modern UI/UX patterns  
- AI-powered applications  
+- Backend architecture  
+- REST API development  
+- System design fundamentals  
+- Cloud deployment  
+- Modern UI/UX patterns  
+- AI-powered applications  
 
 
 ---
