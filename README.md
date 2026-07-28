@@ -17,7 +17,7 @@
 
 ---
 
-# 🌸 About Me
+#  About Me
 
 ```javascript
 const tsion = {
@@ -47,13 +47,9 @@ const tsion = {
 };
 ```
 
-🌸 I enjoy building software that combines **functionality and beautiful design**.
+# I love transforming ideas into real-world applications.
 
-💻 I love transforming ideas into real-world applications.
-
-🚀 Currently improving my full-stack and backend engineering skills.
-
-🌱 Always learning, experimenting, and building.
+# Currently improving my full-stack and backend engineering skills.
 
 
 ---
@@ -61,7 +57,7 @@ const tsion = {
 # 💜 My Digital Toolkit
 
 
-## 🌸 Frontend
+##  Frontend
 
 <p align="center">
 
@@ -70,7 +66,7 @@ const tsion = {
 </p>
 
 
-## ☁️ Backend
+##  Backend
 
 <p align="center">
 
@@ -79,7 +75,7 @@ const tsion = {
 </p>
 
 
-## 🗄️ Databases & Cloud
+##  Databases & Cloud
 
 <p align="center">
 
@@ -108,32 +104,32 @@ const tsion = {
 
 ---
 
-# ✨ Crafted Creations
+#  Crafted Creations
 
 
-| 🌸 Project | 💜 Description |
+|  Project |  Description |
 |---|---|
-| 🌷 Tsige Flow | A modern wellness platform designed with a beautiful feminine UI |
-| 🚚 Zi Express | Delivery booking and management platform |
-| 📝 Examify | Full-stack online examination system |
-| 📱 Notes App | Kotlin Android application with Firebase integration |
-| 🌐 Portfolio | Personal developer portfolio showcasing my journey |
+|   Tsige Flow | A modern wellness platform designed with a beautiful feminine UI |
+|   Zi Express | Delivery booking and management platform |
+|   Examify | Full-stack online examination system |
+|   Notes App | Kotlin Android application with Firebase integration |
+|   Portfolio | Personal developer portfolio showcasing my journey |
 
 
 ---
 
-# 🌱 Growing My Skills
+#  Growing My Skills
 
 
 Currently exploring:
 
 
-🌙 Backend architecture  
-💜 REST API development  
-✨ System design fundamentals  
-☁️ Cloud deployment  
-🎨 Modern UI/UX patterns  
-🤖 AI-powered applications  
+ Backend architecture  
+ REST API development  
+ System design fundamentals  
+ Cloud deployment  
+ Modern UI/UX patterns  
+ AI-powered applications  
 
 
 ---
