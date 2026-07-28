@@ -20,7 +20,7 @@
 #  About Me
 
 ```javascript
-const tsion = {
+const Tsion = {
 
     name: "Tsion Hailekiros",
 
