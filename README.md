@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 💜Enthusiast  Full-Stack Developer 
+### 💜Full-Stack Developer 
 
 </div>
 
