@@ -109,7 +109,7 @@ const Tsion = {
 
 |  Project |  Description |
 |---|---|
-|   Tsige Flow | A modern wellness platform designed with a beautiful feminine UI |
+|   interviewhub | a modern and responsive interview preparation platform |
 |   Zi Express | Delivery booking and management platform |
 |   Examify | Full-stack online examination system |
 |   Notes App | Kotlin Android application with Firebase integration |
